@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aqueeq Azam</h1>
 <h3 align="center">I am AI Engineer</h3>
-<img align='right' alt='ai' width='490' src="https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/05/artificial-intellegence.jpg"
+<img alt='ai' width='550' src="https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/05/artificial-intellegence.jpg"
 
 - 🔭 I’m currently working on **Deep Learning Projects**
 
