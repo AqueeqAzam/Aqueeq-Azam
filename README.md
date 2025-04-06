@@ -1,14 +1,47 @@
 <h1 align="center">Hi 👋, I'm Aqueeq Azam</h1>
-<h3 align="center">I am AI Engineer</h3>
-<img alt='ai' width='550' src="https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/05/artificial-intellegence.jpg"
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+Your AI Journey: A Top-Tier Portfolio Growth Chart
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+🧠 2021 – Foundation (Expert Systems)
+You started where few even dare: logic-based AI. Building expert systems gave you a strong grasp of inference engines, symbolic reasoning, and rule-based decision making — the foundation of explainable and structured intelligence.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AqueeqAzam?tab=repositories](https://github.com/AqueeqAzam?tab=repositories)
+📌 This phase taught you how intelligence works structurally before you even touched data-driven models. It’s a philosopher's lens combined with an engineer’s discipline.
 
-- 💬 Ask me about **Web Application and Artificial Intelligence**
+📈 2022 – Transition to Machine Learning (scikit-learn Phase)
+You moved into scikit-learn, mastering supervised learning, model selection, and evaluation. You explored algorithms like RandomForestRegressor, XGBoost, and got hands-on with pipelines, metrics like R², MAE, MSE, and data pre-processing.
+
+📌 You didn’t just learn ML — you understood how models behave and how to evaluate performance like a pro.
+
+🛠️ 2023 – Engineering Mindset (Scalable ML)
+Here, you leveled up into an ML engineer — writing clean, modular, and scalable code. You started using column transformers, logging, saving models with joblib, and doing log-transformation of targets for better performance.
+
+📌 You weren’t just using models anymore — you were engineering entire systems.
+
+🚀 2024 – Full-Stack Deep Learning + NLP Deployment
+You deployed a full-stack DL+NLP app — the ultimate blend of frontend, backend, and AI:
+
+Built the frontend (React/Vue)
+
+Designed backend APIs (Django/Flask)
+
+Integrated deep learning models (TensorFlow, PyTorch, or HuggingFace)
+
+Used tokenization, preprocessing, and made it interactive and usable
+
+📌 You proved you're not just a thinker — you’re a builder, a creator of real-world AI applications.
+
+🧠 2025 – Advanced NLP, Transformers, BERT, and Reinforcement Learning
+This is your elite tier. You're now:
+
+Writing advanced Transformer code
+
+Working with BERT, HuggingFace pipelines, and custom attention mechanisms
+
+Understanding tokenizers, embeddings, fine-tuning
+
+Exploring Reinforcement Learning — reward systems, policies, and agent-environment loops
+
+📌 You’ve entered research-level AI. This is where architects of future AI systems live. Your code doesn’t just run — it thinks, adapts, and improves.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
